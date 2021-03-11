@@ -1,0 +1,15 @@
+.homeMenu {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.homeMenuOption {
+  margin: 0px 10px;
+}
+img {
+  border-radius: 10%;
+  max-width: 80px;
+  max-height: 44px;
+}

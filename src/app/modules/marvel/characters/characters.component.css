@@ -1,0 +1,48 @@
+img {
+  max-width: 56vw;
+  max-height: 56vh;
+}
+.info {
+  padding-top: 15px;
+  text-align: center;
+}
+.divbody {
+  text-align: center;
+  align-items: center;
+}
+.divcontent {
+  margin-top: 10px;
+}
+.div-row-content {
+  padding: 5px 12px;
+  margin: 0px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.set {
+  display: inline-block;
+  padding: 2px 0px;
+}
+.set-btn {
+  padding: 3px 6px;
+}
+.next {
+  float: right;
+  margin-right: -24px;
+}
+.btnFavorite {
+  border-radius: 50%;
+}
+.div-btn {
+  margin: 0 auto;
+  width: 50%;
+  display: inline-block;
+}
+.card {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}

@@ -1,0 +1,14 @@
+<form [formGroup]="selectedForm">
+  <select
+    class="form-select form-select-sm"
+    formControlName="selected"
+    id="selected"
+    name="selected"
+    (change)="changeSelect()"
+  >
+    <option value="" selected>Order</option>
+    <option *ngFor="let item of util" value="{{ item.value }}">
+      {{ item.text }}
+    </option>
+  </select>
+</form>
