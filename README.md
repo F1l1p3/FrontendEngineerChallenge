@@ -1,5 +1,5 @@
 # FrontendEngineerChallenge
-## Execute DB.JSON
+## Run DB.JSON
 
 Run `json-server db.json` so that the favorites database is loaded.
 
