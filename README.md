@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
 
-## Execute DB.JSON
+## Run DB.JSON
 
 Run `json-server db.json` so that the favorites database is loaded.
 
